@@ -1,0 +1,239 @@
+State,County,Daily High (F),Eclipse Temp,Change
+Oregon,Tillamook,75,59,16
+Oregon,Lincoln,59,51,8
+Oregon,Washington,94,68,26
+Oregon,Yamhill,86,68,18
+Oregon,Polk,91,65,26
+Oregon,Benton,89,65,24
+Oregon,Clackamas,84,69,15
+Oregon,Marion,84,65,19
+Oregon,Linn,88,70,18
+Oregon,Wasco,89,67,22
+Oregon,Jefferson,85,66,19
+Oregon,Deschutes,83,63,20
+Oregon,Crook,84,63,21
+Oregon,Wheeler,89,69,20
+Oregon,Grant,86,64,22
+Oregon,Baker,79,63,16
+Oregon,Malheur,92,77,15
+Idaho,Adams,89,68,21
+Idaho,Washington,87,70,17
+Idaho,Canyon,85,68,17
+Idaho,Valley,75,60,15
+Idaho,Gem,88,71,17
+Idaho,Boise,76,65,11
+Idaho,Custer,85,58,27
+Idaho,Butte,82,66,16
+Idaho,Jefferson,89,62,27
+Idaho,Bingham,81,68,13
+Idaho,Madison,82,64,18
+Idaho,Teton,79,64,15
+Idaho,Bonneville,84,72,12
+Wyoming,Teton,81,61,20
+Wyoming,Lincoln,79,64,15
+Wyoming,Fremont,84,69,15
+Wyoming,Sublette,81,64,17
+Wyoming,Natrona,78,69,9
+Wyoming,Carbon,81,68,13
+Wyoming,Converse,81,72,9
+Wyoming,Niobrara,80,69,11
+Wyoming,Platte,82,71,11
+Wyoming,Goshen,84,75,9
+Nebraska,Sioux,77,68,9
+Nebraska,Scotts Bluff,82,77,5
+Nebraska,Box Butte,82,74,8
+Nebraska,Morrill,81,73,8
+Nebraska,Sheridan,85,73,12
+Nebraska,Garden,82,75,7
+Nebraska,Grant,75,73,2
+Nebraska,Arthur,81,73,8
+Nebraska,Keith,82,69,13
+Nebraska,McPherson,81,77,4
+Nebraska,Lincoln,86,73,13
+Nebraska,Logan,81,77,4
+Nebraska,Custer,86,83,3
+Nebraska,Dawson,91,78,13
+Nebraska,Sherman,92,85,7
+Nebraska,Buffalo,86,79,7
+Nebraska,Kearney,85,78,7
+Nebraska,Howard,88,79,9
+Nebraska,Hall,80,75,5
+Nebraska,Adams,86,81,5
+Nebraska,Merrick,85,75,10
+Nebraska,Hamilton,86,81,5
+Nebraska,Clay,85,81,4
+Nebraska,Polk,90,79,11
+Nebraska,York,84,77,7
+Nebraska,Fillmore,87,81,6
+Nebraska,Thayer,87,78,9
+Nebraska,Seward,87,79,8
+Nebraska,Saline,85,76,9
+Nebraska,Jefferson,83,78,5
+Nebraska,Lancaster,84,78,6
+Nebraska,Gage,86,80,6
+Nebraska,Cass,80,69,11
+Nebraska,Otoe,86,73,13
+Nebraska,Johnson,86,73,13
+Nebraska,Pawnee,87,77,10
+Nebraska,Nemaha,86,73,13
+Nebraska,Richardson,88,75,13
+Kansas,Doniphan,82,77,5
+Missouri,Atchison,87,74,13
+Missouri,Holt,87,76,11
+Missouri,Nodaway,86,73,13
+Missouri,Andrew,85,74,11
+Missouri,Buchanan,81,73,8
+Missouri,Platte,81,75,6
+Missouri,Gentry,79,73,6
+Missouri,DeKalb,85,74,11
+Missouri,Clinton,82,75,7
+Missouri,Clay,84,81,3
+Missouri,Jackson,81,77,4
+Missouri,Cass,93,82,11
+Missouri,Daviess,77,73,4
+Missouri,Caldwell,84,80,4
+Missouri,Ray,77,73,4
+Missouri,Lafayette,83,74,9
+Missouri,Johnson,88,79,9
+Missouri,Livingston,78,71,7
+Missouri,Carroll,80,73,7
+Missouri,Saline,86,77,9
+Missouri,Linn,77,70,7
+Missouri,Chariton,80,73,7
+Missouri,Randolph,88,77,11
+Missouri,Howard,88,81,7
+Missouri,Cooper,88,80,8
+Missouri,Audrain,89,85,4
+Missouri,Boone,90,86,4
+Missouri,Callaway,90,87,3
+Missouri,Osage,91,87,4
+Missouri,Montgomery,91,87,4
+Missouri,Gasconade,90,70,20
+Missouri,Lincoln,91,87,4
+Missouri,Warren,93,87,6
+Missouri,Franklin,94,87,7
+Missouri,St. Charles,92,90,2
+Missouri,St. Louis,99,92,7
+Missouri,Jefferson,96,87,9
+Missouri,Ste. Genevieve,97,90,7
+Missouri,Perry,92,89,3
+Missouri,Madison,93,85,8
+Missouri,Scott,95,91,4
+Missouri,Mississippi,93,88,5
+Illinois,St. Clair,88,86,2
+Illinois,Monroe,82,79,3
+Illinois,Randolph,92,87,5
+Illinois,Perry,92,87,5
+Illinois,Jackson,90,87,3
+Illinois,Union,93,92,1
+Illinois,Marion,97,89,8
+Illinois,Jefferson,92,86,6
+Illinois,Franklin,98,94,4
+Illinois,Williamson,97,90,7
+Illinois,Johnson,92,85,7
+Illinois,Saline,93,89,4
+Illinois,Pope,94,90,4
+Illinois,Massac,92,88,4
+Illinois,Gallitin,95,89,6
+Illinois,Hardin,92,88,4
+Kentucky,Livingston,93,88,5
+Kentucky,Marshall,95,88,7
+Kentucky,Crittenden,92,88,4
+Kentucky,Lyon,95,88,7
+Kentucky,Caldwell,94,87,7
+Kentucky,Trigg,92,86,6
+Kentucky,Christian,91,86,5
+Kentucky,Muhlenberg,91,83,8
+Kentucky,Todd,88,83,5
+Kentucky,Butler,93,87,6
+Kentucky,Logan,88,80,8
+Kentucky,Warren,92,86,6
+Kentucky,Simpson,92,87,5
+Kentucky,Barren,95,87,8
+Kentucky,Allen,91,88,3
+Kentucky,Monroe,95,87,8
+Tennessee,Stewart,93,86,7
+Tennessee,Montgomery,98,88,10
+Tennessee,Dickson,91,86,5
+Tennessee,Robertson,92,87,5
+Tennessee,Cheatham,92,86,6
+Tennessee,Williamson,94,86,8
+Tennessee,Davidson,92,89,3
+Tennessee,Sumner,93,88,5
+Tennessee,Wilson,95,88,7
+Tennessee,Rutherford,93,88,5
+Tennessee,Macon,93,84,9
+Tennessee,Trousdale,93,84,9
+Tennessee,Smith,95,72,23
+Tennessee,DeKalb,92,86,6
+Tennessee,Cannon,92,86,6
+Tennessee,Warren,91,88,3
+Tennessee,Clay,94,85,9
+Tennessee,Jackson,94,85,9
+Tennessee,Putnam,90,88,2
+Tennessee,White,99,88,11
+Tennessee,Van Buren,88,80,8
+Tennessee,Cumberland,85,79,6
+Tennessee,Bledsoe,88,80,8
+Tennessee,Sequatchie,87,87,0
+Tennessee,Morgan,89,66,23
+Tennessee,Anderson,92,88,4
+Tennessee,Roane,90,84,6
+Tennessee,Rhea,93,83,10
+Tennessee,Meigs,93,83,10
+Tennessee,Hamilton,88,84,4
+Tennessee,Loudon,92,84,8
+Tennessee,McMinn,90,79,11
+Tennessee,Bradley,92,84,8
+Tennessee,Cocke,90,80,10
+Tennessee,Sevier,91,84,7
+Tennessee,Blount,90,85,5
+Tennessee,Monroe,86,86,0
+Tennessee,Polk,89,78,11
+North Carolina,Haywood,84,68,16
+North Carolina,Swain,77,67,10
+North Carolina,Graham,90,77,13
+North Carolina,Cherokee,91,86,5
+North Carolina,Clay,87,82,5
+North Carolina,Macon,88,78,10
+North Carolina,Jackson,85,78,7
+North Carolina,Transylvania,83,79,4
+Georgia,Fannin,87,83,4
+Georgia,Union,88,84,4
+Georgia,Towns,84,77,7
+Georgia,Rabun,87,80,7
+Georgia,White,89,82,7
+Georgia,Habersham,93,87,6
+Georgia,Stephens,94,86,8
+Georgia,Banks,94,92,2
+Georgia,Franklin,94,91,3
+Georgia,Hart,93,87,6
+Georgia,Madison,93,87,6
+South Carolina,Oconee,91,89,2
+South Carolina,Pickens,90,86,4
+South Carolina,Greenville,94,92,2
+South Carolina,Anderson,93,88,5
+South Carolina,Abbeville,91,87,4
+South Carolina,Laurens,91,86,5
+South Carolina,McCormick,97,88,9
+South Carolina,Greenwood,94,90,4
+South Carolina,Edgefield,92,89,3
+South Carolina,Saluda,94,75,19
+South Carolina,Newberry,93,86,7
+South Carolina,Union,97,87,10
+South Carolina,Aiken,97,90,7
+South Carolina,Lexington,94,89,5
+South Carolina,Richland,93,86,7
+South Carolina,Kershaw,93,88,5
+South Carolina,Barnwell,93,88,5
+South Carolina,Bamberg,91,75,16
+South Carolina,Colleton,90,79,11
+South Carolina,Orangeburg,95,93,2
+South Carolina,Calhoun,91,87,4
+South Carolina,Sumter,91,90,1
+South Carolina,Clarendon,91,84,7
+South Carolina,Dorchester,95,81,14
+South Carolina,Berkeley,92,76,16
+South Carolina,Georgetown,92,81,11
+South Carolina,Charleston,88,84,4
+,AVERAGES,88.19831224,79.47257384,8.725738397
